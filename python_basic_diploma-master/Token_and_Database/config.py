@@ -1,5 +1,5 @@
 DB_PATH = "database.db"
-BOT_TOKEN = "8737970023:AAEERjV7Utf-VhShfazvOqbWINl4s0kCKus"
+BOT_TOKEN = "Your_Token"
 
 DEFAULT_COMMANDS = (
     ("start", "Приветствие и знакомство с ботом"),
